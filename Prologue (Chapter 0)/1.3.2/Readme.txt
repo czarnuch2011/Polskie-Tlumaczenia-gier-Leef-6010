@@ -15,6 +15,8 @@ zgłoś błędy w tłumaczeniu na Twitterze https://twitter.com/Patryk50199190 l
 (Jeśli odpalasz na steamie) Otwórz aplikację steam potem wejdz w stronę główną, kliknij prawym przyciskiem myszy na grę potem zarządzaj 
 i wybierz przeglądaj pliki lokalne
 
+Informujemy że tłumaczenie będzie w 100% kompatybilne z wersją 1.3.2 ale 3 teksty pokazują kod bo nie da się ich przetłumaczyć, by to naprawić wybierz Angielski a potem Polski
+
 
 co naprawiono w wersjach tłumaczeniu:
 
@@ -48,12 +50,13 @@ v1.6
 - Poprawiono teksty w których nie było Polskich znaków
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 v.1.6.2
-- dodano jeden zapomniany tekst w drugiej notatce
+- dodano jeden zapomniany tekst w drugiej notatatce
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-v.1.6.3
-- Zmieniono czcionkę dla dialogów na styl Halloweenowy
+v1.6.3
+- Dostosowano napisy końcowe pod wersję 1.3.2
+- Naprawiono błąd w tekście dla K8 gdzie nie było Polskiego znaka
+- 3 teksty w menu głównym mają uszkodzony kod bo nie można na razie ich przetłumaczyć, by to naprawić wybierz Angielski a potem Polski
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 v1.6.4
-- Dostosowano napisy końcowe pod wersję 1.3.2
-- Naprawiono błąd w tekście dla K8 gdzie nie było Polskiego znaku
-- 3 teksty w menu głównym mają uszkodzony kod bo nie można na razie ich przetłumaczyć, by to naprawić wybierz Angielski a potem Polski
+- troszeczkę mniejszono teksty z powodu 2 tekstów które wyszły poza linię
+- Naprawiono błąd w tłumaczeniu w jednym tekście dla scenki Rytuału z dziewczynami w K5
